@@ -10,23 +10,13 @@
     "phone": "845-283-1462",
     "address": {
       "street": "(Your Street)",
-      "city": "(Your City)",
+      "city": "Danbury",
       "state": "(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "https://www.mulickd.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
-      {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/mulickd/",
