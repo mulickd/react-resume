@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Majority of code has been taken and used from existing repo here: https://github.com/tbakerx/react-resume-template
+All credit to original author for their code, modifications made by myself for use and hosting later.
 
 ## Available Scripts
 
